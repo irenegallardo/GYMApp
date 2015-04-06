@@ -7,7 +7,6 @@ import java.awt.event.ActionListener;
  * Created by Irene on 04/04/2015.
  */
 
-
 public class IClient extends JFrame implements ActionListener {
 
     /**
